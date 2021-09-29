@@ -9,9 +9,8 @@
 ## Local Testing Instructions
 1. Open a command prompt on your local system and navigate to the directory where the application will be run.
 2. Run the following commands: 
-  > git clone https://github.com/postpoststructuralism/DevicesApp.git
-  > 
-  > cd DevicesApi
+  > - git clone https://github.com/postpoststructuralism/DevicesApp.git
+  > - cd DevicesApi
 3. Open the solution in Visual Studio.
 4. Run the project on IIS Express. This will:
    - Generate a sample database (with some sample data) on (localdb)\\MSSQLLocalDB.
